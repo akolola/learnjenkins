@@ -1,2 +1,3 @@
 # learnjenkins
-Learn Jenkins
+Dummy repo for Jenkins tests
+
